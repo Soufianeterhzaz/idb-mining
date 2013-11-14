@@ -1,0 +1,1 @@
+INDEX VERSION 1.126+C:\talend_workspace_git\idb_mining_workspace_540\idb-mining\.metadata\.plugins\org.eclipse.jdt.core

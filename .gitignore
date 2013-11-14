@@ -15,6 +15,7 @@ local.properties
 *.log
 ./metadata/.lock
 history/
+.history/
 *.bin
 *.class
 *.jar
