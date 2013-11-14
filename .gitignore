@@ -14,6 +14,7 @@ local.properties
 .loadpath
 *.log
 ./metadata/.lock
+history/
 *.bin
 *.class
 *.jar
