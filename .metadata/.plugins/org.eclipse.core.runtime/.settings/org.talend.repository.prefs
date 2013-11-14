@@ -1,0 +1,3 @@
+#Thu Nov 14 19:06:25 CET 2013
+eclipse.preferences.version=1
+TOS_Jobs_Records={"BOOKWORM"\:{"tos.count.businessModels"\:0,"tos.count.components"\:11,"tos.count.contextVariables"\:0,"tos.count.generatedJobDocs"\:0,"tos.count.jobs"\:1,"tos.count.metadatas"\:0,"tos.job.frequentComponents"\:{"tFileOutputDelimited"\:2,"tJavaFlex"\:1,"tJavaRow"\:1,"tMap"\:2,"tMongoDBInput"\:2,"tNormalize"\:1,"tReplicate"\:1,"tSetProxy"\:1}}}

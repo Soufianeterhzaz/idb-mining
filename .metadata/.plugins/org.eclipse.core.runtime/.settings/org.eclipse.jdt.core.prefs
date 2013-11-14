@@ -1,4 +1,4 @@
-#Thu Nov 14 15:26:06 CET 2013
+#Thu Nov 14 16:16:12 CET 2013
 org.eclipse.jdt.core.classpathVariable.EXTERNAL_COMPONENT_ORG_TALEND_DESIGNER_ESB_COMPONENTS_WS_CONSUMER=C\:/Program Files/TOS_BD-r110020-V5.4.0/plugins/org.talend.designer.esb.components.ws.consumer_5.4.0.r110020/
 org.eclipse.jdt.core.compiler.compliance=1.5
 org.eclipse.jdt.core.classpathVariable.EXTERNAL_COMPONENT_ORG_TALEND_DESIGNER_DBMAP=C\:/Program Files/TOS_BD-r110020-V5.4.0/plugins/org.talend.designer.dbmap_5.4.0.r110020.jar
@@ -15,6 +15,7 @@ org.eclipse.jdt.core.classpathVariable.EXTERNAL_COMPONENT_ORG_TALEND_DESIGNER_AL
 org.eclipse.jdt.core.classpathVariable.EXTERNAL_COMPONENT_ORG_TALEND_DESIGNER_SCD=C\:/Program Files/TOS_BD-r110020-V5.4.0/plugins/org.talend.designer.scd_5.4.0.r110020.jar
 org.eclipse.jdt.core.classpathVariable.EXTERNAL_COMPONENT_ORG_TALEND_DESIGNER_XMLMAP=C\:/Program Files/TOS_BD-r110020-V5.4.0/plugins/org.talend.designer.xmlmap_5.4.0.r110020.jar
 org.eclipse.jdt.core.classpathVariable.EXTERNAL_COMPONENT_ORG_TALEND_DESIGNER_NEO4J=C\:/Program Files/TOS_BD-r110020-V5.4.0/plugins/org.talend.designer.neo4j_5.4.0.r110020.jar
+org.eclipse.jdt.core.codeComplete.visibilityCheck=enabled
 org.eclipse.jdt.core.classpathVariable.EMF_ECORE=C\:/Program Files/TOS_BD-r110020-V5.4.0/plugins/org.eclipse.emf.ecore_2.6.1.v20100914-1218.jar
 org.eclipse.jdt.core.classpathVariable.MANAGEMENT_LIBRARIES=C\:/Program Files/TOS_BD-r110020-V5.4.0/plugins/org.talend.metadata.managment_5.4.0.r110020.jar
 org.eclipse.jdt.core.classpathVariable.ORG_TALEND_DESIGNER_ABSTRACTMAP_LIBRARIES=C\:/Program Files/TOS_BD-r110020-V5.4.0/plugins/org.talend.designer.abstractmap_5.4.0.r110020.jar

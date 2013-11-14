@@ -2,5 +2,10 @@
 <classpath>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/talend_workspace_git/idb_mining_workspace_540/idb-mining/.Java/lib/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="C:/talend_workspace_git/idb_mining_workspace_540/idb-mining/.Java/lib/talendcsv.jar"/>
+	<classpathentry kind="lib" path="C:/talend_workspace_git/idb_mining_workspace_540/idb-mining/.Java/lib/mongo-2.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/talend_workspace_git/idb_mining_workspace_540/idb-mining/.Java/lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/talend_workspace_git/idb_mining_workspace_540/idb-mining/.Java/lib/mongo-java-driver-2.11.2.jar"/>
 	<classpathentry kind="output" path="classes"/>
 </classpath>
