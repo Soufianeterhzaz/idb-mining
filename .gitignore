@@ -21,8 +21,6 @@ history/
 *.jar
 SkeletonUpdateCache
 XsdValidationCache
-*.snap
-.snap
 
 
 Thumbs.db
