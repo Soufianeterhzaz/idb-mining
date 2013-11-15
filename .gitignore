@@ -21,6 +21,7 @@ history/
 *.jar
 SkeletonUpdateCache
 XsdValidationCache
+.classpath
 
 
 Thumbs.db
