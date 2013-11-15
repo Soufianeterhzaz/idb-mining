@@ -29,3 +29,7 @@ ehthumbs.db
 Desktop.ini
 $RECYCLE.BIN/
 .DS_Store
+
+# Variabili di contesto locali
+gitignore_0.1.item
+gitignore_0.1.properties

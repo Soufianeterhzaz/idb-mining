@@ -160,8 +160,5 @@
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.talend.designer.core.ui.MultiPageTalendEditor">
 <persistable path="/BOOKWORM/temp/tmpPROCESS_rWXfoE0_EeOKZvkSeUsfRw"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.talend.designer.core.ui.MultiPageTalendEditor">
-<persistable path="/BOOKWORM/temp/tmpPROCESS_rWXfoE0_EeOKZvkSeUsfRw"/>
-</file>
 </mruList>
 </workbench>
