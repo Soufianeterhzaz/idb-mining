@@ -56,7 +56,7 @@
 </view>
 <view id="org.talend.oozie.scheduler.views.OozieSchedulerView" partName="Talend Oozie"/>
 </views>
-<perspectives activePart="org.talend.designer.runprocess.ui.views.processview" activePerspective="org.talend.rcp.perspective">
+<perspectives activePerspective="org.talend.rcp.perspective">
 <perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
 <descriptor class="org.talend.rcp.perspective.Perspective" id="org.talend.rcp.perspective" label="Integration"/>
 <alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
@@ -107,7 +107,7 @@
 </folder>
 </info>
 <info folder="true" part="bottomLayout" ratio="0.6168122" ratioLeft="565" ratioRight="351" relationship="4" relative="org.eclipse.ui.editorss">
-<folder activePageID="org.talend.designer.runprocess.ui.views.processview" appearance="2" expanded="2">
+<folder activePageID="org.talend.designer.core.ui.views.properties.ComponentSettingsView" appearance="2" expanded="2">
 <page content="org.talend.designer.core.ui.views.jobsettings.JobSettingsView" label="Job"/>
 <page content="org.talend.designer.core.ui.views.ContextsView" label="Contexts"/>
 <page content="org.talend.designer.core.ui.views.properties.ComponentSettingsView" label="Componente"/>
@@ -147,27 +147,16 @@
 <workbenchWindowAdvisor/>
 <actionBarAdvisor/>
 <trimLayout>
-<trimArea IMemento.internal.id="16384">
-<trimItem IMemento.internal.id="navigatorLayout"/>
-</trimArea>
-<trimArea IMemento.internal.id="131072">
-<trimItem IMemento.internal.id="org.eclipse.ui.editorss"/>
-<trimItem IMemento.internal.id="paletteLayout"/>
-</trimArea>
 <trimArea IMemento.internal.id="128">
 <trimItem IMemento.internal.id="org.eclipse.ui.internal.WorkbenchWindow.topBar"/>
 </trimArea>
 <trimArea IMemento.internal.id="1024">
 <trimItem IMemento.internal.id="org.eclipse.jface.action.StatusLineManager"/>
 <trimItem IMemento.internal.id="org.eclipse.ui.internal.progress.ProgressRegion"/>
-<trimItem IMemento.internal.id="outlineCodeLayout"/>
 </trimArea>
 </trimLayout>
 </window>
 <mruList>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.talend.designer.core.ui.MultiPageTalendEditor">
-<persistable path="/BOOKWORM/temp/tmpPROCESS_rWXfoE0_EeOKZvkSeUsfRw"/>
-</file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.talend.designer.core.ui.MultiPageTalendEditor">
 <persistable path="/BOOKWORM/temp/tmpPROCESS_rWXfoE0_EeOKZvkSeUsfRw"/>
 </file>

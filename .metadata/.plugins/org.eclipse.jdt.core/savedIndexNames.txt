@@ -1,5 +1,5 @@
 INDEX VERSION 1.126+C:\talend_workspace_git\idb_mining_workspace_540\idb-mining\.metadata\.plugins\org.eclipse.jdt.core
-3133528496.index
+30765161.index
 305854171.index
 4155206848.index
 1498219845.index
@@ -14,7 +14,5 @@ INDEX VERSION 1.126+C:\talend_workspace_git\idb_mining_workspace_540\idb-mining\
 1995173708.index
 1242787514.index
 4108727661.index
-646518031.index
 1697886153.index
-4227975502.index
-30765161.index
+3133528496.index
