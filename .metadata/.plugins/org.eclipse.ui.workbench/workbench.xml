@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<workbench progressCount="8" version="2.0">
+<workbench progressCount="7" version="2.0">
 <workbenchAdvisor/>
 <window height="750" maximized="true" width="1000" x="1541" y="175">
 <fastViewData fastViewLocation="1024"/>
@@ -14,6 +14,7 @@
 <coolItem id="org.talend.repository.actionSet" itemType="typeToolBarContribution" x="84" y="22"/>
 <coolItem id="group.editor" itemType="typeGroupMarker"/>
 <coolItem id="org.talend.designer.core.ui.MultiPageTalendEditor" itemType="typePlaceholder" x="166" y="22"/>
+<coolItem id="org.eclipse.jdt.ui.JavaActionSet" itemType="typeToolBarContribution" x="38" y="22"/>
 <coolItem id="org.talend.rcp.CoolItemLinks" itemType="typeToolBarContribution" x="295" y="22"/>
 </coolbarLayout>
 <page focus="true" label="Spazio di lavoro - Integration">
@@ -38,6 +39,17 @@
 </view>
 <view id="org.talend.designer.runprocess.ui.views.processview" partName="Esegui job">
 <viewState/>
+</view>
+<view id="org.eclipse.jdt.ui.ProjectsView" partName="Progetti">
+<viewState org.eclipse.jdt.ui.browsing.projectstoeditor="1" workingSetName="">
+<customFilters userDefinedPatternsEnabled="false">
+<xmlDefinedFilters>
+<child filterId="org.eclipse.jdt.ui.ProjectsView.LibraryFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.ProjectsView.NonSharedProjectsFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.ProjectsView.ContainedLibraryFilter" isEnabled="false"/>
+</xmlDefinedFilters>
+</customFilters>
+</viewState>
 </view>
 <view id="org.talend.repository.cnf.view" partName="Repository">
 <viewState CommonNavigator.LINKING_ENABLED="0"/>
@@ -75,6 +87,7 @@
 <view id="org.talend.oozie.scheduler.views.OozieSchedulerView"/>
 <view id="org.talend.designer.codegen.perlmodule.ModulesView"/>
 <view id="org.talend.repository.cnf.view"/>
+<view id="org.eclipse.jdt.ui.ProjectsView"/>
 <view id="org.eclipse.ui.views.ContentOutline"/>
 <view id="org.talend.designer.core.codeView"/>
 <view id="org.eclipse.gef.ui.palette_view"/>
@@ -84,8 +97,10 @@
 <info folder="true" part="navigatorLayout">
 <folder activePageID="org.talend.repository.cnf.view" appearance="2" expanded="2">
 <page content="org.talend.repository.cnf.view" label="Repository"/>
+<page content="org.eclipse.jdt.ui.ProjectsView" label="Progetti"/>
 <presentation id="org.talend.rcp.intro.linksbar.TalendActionBarPresentationFactory">
 <part id="0"/>
+<part id="1"/>
 </presentation>
 </folder>
 </info>
@@ -107,7 +122,7 @@
 </folder>
 </info>
 <info folder="true" part="bottomLayout" ratio="0.6168122" ratioLeft="565" ratioRight="351" relationship="4" relative="org.eclipse.ui.editorss">
-<folder activePageID="org.talend.designer.core.ui.views.properties.ComponentSettingsView" appearance="2" expanded="2">
+<folder activePageID="org.talend.designer.runprocess.ui.views.processview" appearance="2" expanded="2">
 <page content="org.talend.designer.core.ui.views.jobsettings.JobSettingsView" label="Job"/>
 <page content="org.talend.designer.core.ui.views.ContextsView" label="Contexts"/>
 <page content="org.talend.designer.core.ui.views.properties.ComponentSettingsView" label="Componente"/>

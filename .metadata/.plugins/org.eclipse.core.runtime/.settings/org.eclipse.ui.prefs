@@ -1,7 +1,7 @@
-#Fri Nov 15 11:14:11 CET 2013
+#Mon Nov 18 11:16:46 CET 2013
 CLOSE_EDITORS_ON_EXIT=true
 lastUSedProject=BOOKWORM
-LOGINCOUNT=4
+LOGINCOUNT=7
 workspaceTasksDone=org.talend.core.InitConnectionsMigrationTask|org.talend.core.EmptyConnectionsMigrationTask|org.talend.designer.core.ui.preferences.migration.AddQuotesForStatLogsPreference|org.talend.migrationTool.InitWorkspaceMigrationTask|org.talend.repository.model.migration.ChangeProjectTechinicalName
 showIntro=false
 exchange_downloaded_check_updates=true
